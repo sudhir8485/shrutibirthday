@@ -1,2 +1,2 @@
-# shrutibirthday
+# ShrutiBirthday
 happy birthday
